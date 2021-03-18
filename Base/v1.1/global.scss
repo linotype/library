@@ -1,0 +1,22 @@
+html {
+    background: #292c30;
+    color: #5c5edb;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+body {
+    padding: 1rem;
+
+}
+
+a {
+    text-decoration: none;
+    color: #888;
+    padding: 0 .3rem 0 0;
+
+    &:hover {
+        color: #bdbdbd;
+    }
+
+}
